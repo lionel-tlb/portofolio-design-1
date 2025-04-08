@@ -6,9 +6,7 @@ A simple portofolio built with HTML CSS and JS to demonstrate basic layout and d
 
 ## Technologies Used
 HTML5
-
 CSS3
-
 JS
 
 ## Features
